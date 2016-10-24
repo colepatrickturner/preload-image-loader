@@ -20,5 +20,5 @@ A loader to preload images.
 ```
 
 ## Credits
-This loader was initially written by Tobias Koppler (@sokra), author of Webpack.
-Fixed by Cole Turner (@colepatrickturner).
+- Written by Tobias Koppler (@sokra), author of Webpack.
+- Fixed and published by Cole Turner (@colepatrickturner).
